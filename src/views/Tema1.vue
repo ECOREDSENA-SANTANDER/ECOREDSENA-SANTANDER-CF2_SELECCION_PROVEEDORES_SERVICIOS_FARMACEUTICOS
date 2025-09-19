@@ -269,10 +269,10 @@
           .col
             .row.justify-content-between.align-items-center
               .col.mb-3.mb-sm-0
-                h4.mb-2.txtblue Técnicas de clasificación de proveedor
+                h4.mb-2.txtblue Convocatoria de proveedores 
                 p.mb-0 Para fortalecer el tema anteriormente abordado, se invita a consultar el siguiente enlace.
               .col-sm-auto
-                a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=sBZgU1RlQX8')" target="_blank")
+                a.boton.color-acento-botones.texto-blanco(:href="('https://www.youtube.com/watch?v=5gBILC2yuC0')" target="_blank")
                   span Ir al sitio
                   i.fas.fa-video
 
